@@ -1,7 +1,7 @@
-/data1/dcy/projects/fine-tune/lm-cute-train/code/encode_corpus/merge_data.py
-/data1/dcy/projects/fine-tune/lm-cute-train/code/encode_corpus/merge_llama3.py
-/data1/dcy/projects/fine-tune/lm-cute-train/code/encode_corpus/original_data.py
-/data1/dcy/projects/fine-tune/lm-cute-train/code/encode_corpus/merge_pkl.py
+code/encode_corpus/merge_data.py
+code/encode_corpus/merge_llama3.py
+code/encode_corpus/original_data.py
+code/encode_corpus/merge_pkl.py
 # Byte-compiled / optimized / DLL files
 data/
 output/
